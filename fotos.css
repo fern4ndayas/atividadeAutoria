@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #cc8484;
+}
+
+.titulo{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: bisque;
+}
+
+.imagens{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.imagens img{
+    margin: 5px;
+    height: 600px;
+    width: 600px;
+  }
